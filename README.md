@@ -13,10 +13,10 @@ Randomized card layout: The symbols on the cards are randomly distributed each t
 
 <h3>The Memory Card Game is developed using the following technologies:</h3>
 
-<bold>HTML</bold>: The game's structure and layout are created using HTML. <br>
-<bold>CSS</bold>: CSS is used to style the game interface, providing an attractive and user-friendly design. <br>
-<bold>JavaScript</bold>: The game logic, including card flipping, matching, and tracking player progress, is implemented using JavaScript. <br>
-<bold>ReactJS</bold>: The ReactJS framework is used to build the game as a component-based application, making it easier to manage state, handle user interactions, and update the UI.<br>
+<strong>HTML</strong>: The game's structure and layout are created using HTML. <br>
+<strong>CSS</strong>: CSS is used to style the game interface, providing an attractive and user-friendly design. <br>
+<strong>JavaScript</strong>: The game logic, including card flipping, matching, and tracking player progress, is implemented using JavaScript. <br>
+<strong>ReactJS</strong>: The ReactJS framework is used to build the game as a component-based application, making it easier to manage state, handle user interactions, and update the UI.<br>
 Installation
 
 <h3>Usage</h3>
